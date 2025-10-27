@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent{
+    height: 800px;
+    width: 800px;
+    background-color: blue;
+}
+
+.child{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+}

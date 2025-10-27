@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+
+p{
+    text-align: center;
+    color: green;
+    background-color: aqua;
+    border: 5px solid blueviolet;
+    font-size: 80px;
+    font-weight: 900;
+    font-family: "Archivo Black", sans-serif;
+    text-decoration: overline underline double line-through wavy;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 2px red;
+}

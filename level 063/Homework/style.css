@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+.Hello{
+    margin-left: 1500px;
+    margin-top: 40px;
+    text-decoration: underline dashed green;
+    font-size: large;
+}
+
+.World{
+    margin-left: 800px;
+    margin-top: 70px;
+    text-decoration: line-through;
+    font-weight: 600;
+}
+
+.Symbol{
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.Goal{
+    margin-left: 800px;
+    margin-top: 100px;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.Oriented{
+    margin-left: 1500px;
+    margin-top: 100px;
+    text-decoration: underline;
+    font-weight: 600;
+    text-decoration: line-through dotted green;
+}
+
+.Academy{
+    margin-left: 50px;
+    margin-top: 130px;
+    text-decoration: underline;
+    font-weight: 600;
+    text-decoration: line-through dotted black;
+}
+
+.is{
+    margin-left: 50px;
+    margin-top: 30px;
+    text-decoration: overline black;
+    font-weight: 600;
+}
+
+.the{
+    margin-left: 1500px;
+    margin-top: 70px;
+    font-weight: 600;
+    color: green;
+    text-decoration: overline green;
+}
+
+.BEST{
+    margin-left: 780px;
+    margin-top: 40px;
+    font-weight: 600;
+    font-size: larger;
+    color: grey;
+    text-decoration: overline grey;
+}
+
+.one{
+    margin-left: 1490px;
+    margin-top: 100px;
+    font-weight: 600;
+    text-decoration: underline dotted green;
+}
+

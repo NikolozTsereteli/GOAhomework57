@@ -1,0 +1,23 @@
+.Philosophy{
+    font-size: 50px;
+}
+
+.Philosophy:hover{
+    text-decoration: line-through black;
+}
+
+.Philosophy:active{
+    text-decoration: line-through red;
+}
+
+.Theology{
+    font-size: 50px;
+}
+
+.Theology:hover{
+    text-decoration: overline underline blue;
+}
+
+.Theology:active{
+    text-decoration: overline underline line-through blue;
+}

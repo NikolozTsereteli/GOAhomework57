@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+p{
+    font-size: 100px;
+    font-family: "Lobster Two", sans-serif;
+    font-weight: bolder;
+    text-decoration: overline dotted red;
+}

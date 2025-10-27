@@ -1,0 +1,17 @@
+.GOA{
+    font-size: 50px;
+    text-decoration: underline yellow 10px;
+    color: blue;
+}
+
+.goa{
+    font-size: 50px;
+    text-decoration: line-through purple 5px;
+    color: aqua;
+}
+
+.GOABEST{
+    font-size: 50px;
+    text-decoration: overline green 10px;
+    color: red;
+}
