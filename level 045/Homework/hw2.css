@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.First_div{
+    background-color: blue;
+    margin: 50px;
+}
+
+.Second_div{
+    background-color: red;
+    margin: 10px;
+}
