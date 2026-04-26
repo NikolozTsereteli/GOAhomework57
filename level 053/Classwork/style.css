@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    position: fixed;
+    z-index: 4;
+    width: 100dvw;
+    display: flex;
+    gap: 20%;
+}
+
+#box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    left: 100px;
+    top: 200px;
+    z-index: 2;
+}
+
+#box2{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    z-index: 3;
+}
+
+#box3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: absolute;
+    top: 1000px;
+}

@@ -1,0 +1,12 @@
+#Section1{
+    background-image: url("Nature.webp");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 500px 500px;
+    position: absolute;
+    left: 100px;
+    height: 500px;
+    width: 500px;
+    border: 10px solid red;
+    font-size-adjust: 1;
+}

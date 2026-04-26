@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Positioning{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    position: absolute;
+    left: 150px;
+    top: 200px;
+    z-index: 2; 
+    /* z-index კუთვნილება, 2 ან მეტი ელემენტის ერთმანეთთან ადგილის გადაკვეთის შემთხვევაში, უფრო დიდ პრიორიტეტს მიანიჭებს იმ ელემენტს რომელსაც აქვს უფრო მაღალი მნიშვნელობის z-index, და ამ ელემენტსს გამიაჩენს მთლიანად, ხოლო სხვა ელემენტის გადაკვეთილ ნაწილს დამალავს მის ქვეშ */
+}
+
+#Motivation{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(111, 255, 0);
+    position: absolute;
+    left: 100px;
+    top: 50px;
+}

@@ -1,0 +1,9 @@
+div{
+    border: 10px solid red;
+    width: 600px;
+    height: 600px;
+    background-image: url("Georgia.webp");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 600px 300px;
+}
